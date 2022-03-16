@@ -10,6 +10,18 @@
 
 This page is meant as a sandbox for Franklin Syntax so that you can quickly practice or experience things.
 
+
+## Like
+
+inline links: [plain link](https:://www.wikipedia.org)
+
+reference links: ["reference" link][reflink] and ["reference" link][]
+
+[reflink]: https://www.wikipedia.org
+["reference" link]: https://www.wikipedia.org
+
+
+
 ## Sandbox
 
 Write whatever you want here to practice Franklin Syntax:
