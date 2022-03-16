@@ -3,6 +3,8 @@
 @def hascode = true
 
 
+
+
 # Franklin syntax sandbox09
 
 
@@ -30,6 +32,6 @@ $$ \forall x \in \R:\quad \scal{x, x} \ge 0 $$
 
 Surely some people remember the ordering, but I always forget:
 
-$$ \varphi(\E[X]) \le \E[\varphi(X)] $$
+$$ \varphi(\E[X]) \le \E[\varphi(X)] $$ 
 
 for $\varphi$ convex.
